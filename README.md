@@ -5,7 +5,7 @@ So, Do you need to visualize data flowing in your CAN bus?
 
 I needed to, so I built this simple Display with this elements:
 
-- arduio UNO board ( actually I used seeeduino because of the micro USB connector)
+- arduino UNO board ( actually I used seeeduino because of the micro USB connector)
 - Display used in this project is the 2,8" TFT touch shield, v2.1 by seeed studio
 - Can BUS shield v1.2 by seeed studio
 - A small joystick like this, which is "clickable":
@@ -17,7 +17,7 @@ The seeeduino and the shields match perfectly and are enclosed in a box in the h
 ![Image](https://github.com/tommygunbcn/CANbus-Display-Datalogger/blob/main/images/IMG_20201013_171731.jpg)
 
 
-As the project is meant for a e-bike, the joystick is used to navigate between screens, instead of the touchscreen capabilities of the screen, for practical reasons.
+As the project is meant for an e-bike, the joystick is used to navigate between screens, instead of the touchscreen capabilities of the screen, for practical reasons.
 To navigate between the screen, move the joystick left or right.
 
 Basically, each screen consists in this elements:
@@ -28,6 +28,7 @@ Basically, each screen consists in this elements:
 
 ![Image](https://github.com/tommygunbcn/CANbus-Display-Datalogger/blob/main/images/IMG_20201014_125320.jpg)
 ![Image](https://github.com/tommygunbcn/CANbus-Display-Datalogger/blob/main/images/IMG_20201014_181310.jpg)
+![Image](https://github.com/tommygunbcn/CANbus-Display-Datalogger/blob/main/images/IMG_20201014_181351.jpg)
 
 
 Additionally:
